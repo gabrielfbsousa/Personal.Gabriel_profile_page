@@ -61,8 +61,8 @@ $(document).ready(function() {
             .height('64px');
 
     $('.main_image')
-            .width('1195px')
-            .height('445px');
+            .width('92%')
+            .height('64%');
 
     $( '.type-text' ).each( function() {
       var items = $( this ).attr( 'title' ) + ';' + $( this ).text();
